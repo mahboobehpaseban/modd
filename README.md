@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I am currently learning and expanding my skills in React and other related tools<br>🌱 Career Objective: To find job opportunities in the information technology industry in Germany as a Front-End Developer.<br>💬 <br>
 🔭 Ich lerne derzeit und erweitere meine Fähigkeiten in React und anderen verwandten Tools.<br>🌱 Karriereziel: Jobmöglichkeiten in der Informationstechnologiebranche in Deutschland als Front-End-Entwickler zu finden.<br>💬 <br>
-
+..
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/mahboobeh-paseban-7896a71a0) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/mahboobehpaseban/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/16588627/mahboobeh-paseban) 
