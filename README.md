@@ -1,5 +1,12 @@
 
 👋Mahboobeh-👋Podcast & Music App
+👋
+
+
+
+👋
+👋
+
 
 
 
@@ -22,9 +29,6 @@
 
 
 .![nhjkjlknjm](https://github.com/mahboobehpaseban/Podcastapp/assets/121792560/0d78354a-6fa8-48f4-9a9b-f48e51e26584)
-
-Podcast & Music
-The Music App UI design offers a visually appealing interface with seamless navigation. It provides personalized music recommendations based on user preferences and listening history. The app includes easy-to-use playback controls, playlist management features, and detailed song and artist information. Social integration allows users to connect with friends and share their music preferences.
 
 
 
